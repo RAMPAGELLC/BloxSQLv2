@@ -1,4 +1,4 @@
-**BloxSQL Reloaded is no longer being maintained. You may use the source code to host your own instances if you wish!**
+**BloxSQL Reloaded is no longer being maintained by Harry, this repository was forked to be maintained by us again.**
 
 Copyright 2021 Harry Madgwick
 
